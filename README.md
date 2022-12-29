@@ -1,7 +1,7 @@
-## Matheus Fonseca
+### Matheus Fonseca
 
-Sobre:
-<br/>
+<h3>Sobre:</h3>
+
 Graduado em Administração de Empresas pela Universidade Católica de Pernambuco e com mais de 10 anos de experiência na área comercial, administrativa e financeira, comecei a estudar programação como hobby e hoje virou uma paixão, o que me motiva a buscar oportunidades na área de TI e finalmente concluir minha transição da área Adminsitrativa/Comercial para TI.<br/>
 Meu foco principal é o desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript, ReactJS e NodeJS.
 
@@ -9,8 +9,14 @@ Overview:
 <br/>
 Graduated in Business Administration at the Universidade Catolica de Pernambuco and with more than 10 years of experience in commercial, administrative and financial area, I started to study programming languages as a hobby it has become my passion, which motivates me to seek for opportunities in the IT field and finally complete my transition from Adminstrative to IT area.<br/>
 My main focus is development of web applications using HTML, CSS, JavaScript, ReactJS and NodeJS.
-
 <br/>
+<h3>Informations</h3>
+<ul>
+<li><strong>Full Name</strong>: Matheus Felipe Fonseca do Nascimento</li>
+<li><strong>Age</strong>: 28</li>
+<li><strong>City</strong>: Pernambuco - PE</li>
+ <li><strong>Web Stack</strong><br><br></li>
+<span>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
