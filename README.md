@@ -2,7 +2,7 @@
 
 <h3>Sobre:</h3>
 
-Graduado em Administração de Empresas pela Universidade Católica de Pernambuco e com mais de 10 anos de experiência na área comercial, administrativa e financeira, comecei a estudar programação como hobby e hoje virou uma paixão, o que me motiva a buscar oportunidades na área de TI e finalmente concluir minha transição da área Adminsitrativa/Comercial para TI.<br/>
+Graduado em Administração de Empresas pela Universidade Católica de Pernambuco e com mais de 10 anos de experiência na área comercial, administrativa e financeira, comecei a estudar programação como hobby e hoje virou uma paixão, o que me motiva a buscar oportunidades na área de TI e finalmente concluir minha transição da área Administrativa/Comercial para TI.<br/>
 Meu foco principal é o desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript, ReactJS e NodeJS.
 
 Overview:
