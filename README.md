@@ -14,8 +14,8 @@ My main focus is development of web applications using HTML, CSS, JavaScript, Re
 <ul>
 <li><strong>Full Name</strong>: Matheus Felipe Fonseca do Nascimento</li>
 <li><strong>Age</strong>: 29</li>
-<li><strong>City</strong>: Pernambuco - PE</li>
- <li><strong>Web Stack</strong><br><br></li>
+<li><strong>City</strong>: Recife - PE</li>
+ <li><strong>Web FullStack</strong><br><br></li>
 <span>
 
 <div style="display: inline_block"><br>
